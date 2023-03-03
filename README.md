@@ -2,6 +2,7 @@
 
 A simple regidtration form to registers students of a college for going on a trip.
 
+
 ## Deployment
 
 Demo: https://afshankhan11.github.io/TripRegistrationForm/
